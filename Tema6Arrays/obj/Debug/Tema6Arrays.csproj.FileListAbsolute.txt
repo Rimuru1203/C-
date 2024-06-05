@@ -1,0 +1,7 @@
+C:\Users\Alumno\Documents\GitHub\C-digos-Clase\Tema6Arrays\obj\Debug\Tema6Arrays.csproj.AssemblyReference.cache
+C:\Users\Alumno\Documents\GitHub\C-digos-Clase\Tema6Arrays\obj\Debug\Tema6Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\GitHub\C-digos-Clase\Tema6Arrays\bin\Debug\Tema6Arrays.exe.config
+C:\Users\Alumno\Documents\GitHub\C-digos-Clase\Tema6Arrays\bin\Debug\Tema6Arrays.exe
+C:\Users\Alumno\Documents\GitHub\C-digos-Clase\Tema6Arrays\bin\Debug\Tema6Arrays.pdb
+C:\Users\Alumno\Documents\GitHub\C-digos-Clase\Tema6Arrays\obj\Debug\Tema6Arrays.exe
+C:\Users\Alumno\Documents\GitHub\C-digos-Clase\Tema6Arrays\obj\Debug\Tema6Arrays.pdb
